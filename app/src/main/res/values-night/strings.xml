@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_login">Login</string>
+    <string name="main_welcome">Log In</string>
+    <string name="main_password">Password</string>
+    <string name="main_login_button">Log In</string>
+    <string name="updateBtn">Update</string>
+    <string name="deleteBtn">Delete</string>
+    <string name="TechDate">Tech date</string>
+    <string name="log_off">Log Off</string>
+</resources>
